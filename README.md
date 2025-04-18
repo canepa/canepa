@@ -1,6 +1,7 @@
 👋 Hello, I'm @canepa
 About Me
 Webmaster with extensive experience in web development and digital solutions. I specialize in building maintainable, accessible websites with clean code and optimized performance.
+
 💻 Tech Stack
 
 Frontend: HTML5, CSS3 (Flexbox), Vanilla JavaScript
